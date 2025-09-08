@@ -139,10 +139,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- Email: syed@example.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
-
+- Email: userid925925@gmail.com
 ---
 
 Built with ❤️ using React and Vite# react-portfolio-template
